@@ -5,5 +5,5 @@ export const fontSizes = {
   lg: '1.125rem', // About 18px
   xl: '',
 };
-
+//responzivnost fonta
 export const baseFontSize = 'min(16px, 3.5vw)';

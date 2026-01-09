@@ -13,3 +13,4 @@ export const breakpoints = {
   lg: `(max-width: ${sizes.lg}px)`,
   xl: `(max-width: ${sizes.xl}px)`,
 };
+//responzivnost 

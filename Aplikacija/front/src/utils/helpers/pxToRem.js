@@ -1,4 +1,5 @@
 // Converted px value to rem value - for responsive design
+
 const pxToRem = (pxValue) => {
   const baseFontSize = getComputedStyle(document.documentElement).fontSize;
   const baseFontSizePx = parseFloat(baseFontSize);

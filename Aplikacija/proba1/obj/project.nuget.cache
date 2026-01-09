@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4dXXoV9S7oz330G1GaOFNJnoZU/epDAXSFnZTkE7c7T22dkg/2LzTyzUYSKXOcWNOfc/esjIN0l5eXzXHiUnQ==",
+  "dgSpecHash": "jOhcBcX2/eNT1zF9S6vuA7KQPYnfcxvBHbGVTeBlxo2X4VXtCd9yTmEGK4QDLxFpOSe3lasdtvz2sZqmDPYqcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\38165\\Desktop\\swe\\si.23.17.narodnopozoristenis\\Aplikacija\\proba1\\proba1.csproj",
+  "projectFilePath": "C:\\Users\\38165\\Desktop\\III godina\\6.semestar\\SWE\\swe\\si.23.17.narodnopozoristenis\\Aplikacija\\proba1\\proba1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38165\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\38165\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
